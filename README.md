@@ -9,6 +9,11 @@
 ## 🧑‍💻 About Me
 Network & Security Engineer with 4+ years of experience in enterprise and service-provider environments.
 
+Experienced in working with large enterprise environments and international clients such as:
+- BMW (via NTT global network operations)
+- Porsche (enterprise networking environment)
+- KfW (financial enterprise infrastructure)
+
 Strong expertise in:
 - Routing & Switching
 - Firewall technologies (Palo Alto, FortiGate, Check Point)
@@ -65,13 +70,13 @@ I am currently building hands-on projects in:
 - Enterprise network operations & troubleshooting  
 - Cisco ACI & datacenter networking  
 - Firewall management & incident handling  
-- NAC (Cisco ISE) policy & troubleshooting  
+- Supporting enterprise customer environments (automotive & financial sectors)  
 
 ---
 
 ### 🔵 NTT Ltd (BMW Account) — Network Engineer (NOC)  
 📅 Oct 2022 – Dec 2023  
-- Monitoring global enterprise networks  
+- Monitoring global enterprise networks (BMW)  
 - Routing, switching, VPN & firewall troubleshooting  
 - Incident handling in high-availability environments  
 
