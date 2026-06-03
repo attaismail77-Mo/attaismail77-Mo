@@ -2,6 +2,7 @@
 
 🔐 Senior Network & Security Engineer based in Germany  
 🌍 Enterprise Networking | Security | Cloud & Automation  
+💡 Transitioning into Cloud, Automation, and Infrastructure as Code (Terraform)
 
 ---
 
@@ -20,12 +21,18 @@ Currently working at **Computacenter**, previously at **NTT (BMW global network 
 ---
 
 ## 🚀 Current Focus
-I am actively expanding my skills in modern infrastructure and automation:
+I am currently building hands-on projects in:
 
-- ☁️ AWS Cloud (learning & hands-on labs)
+- ☁️ AWS Cloud (VPC, EC2, Networking basics)
 - 🏗️ Infrastructure as Code (Terraform)
 - ⚙️ Network & Security Automation
 - 🐍 Python for automation
+
+---
+
+## 📂 Projects (Work in Progress)
+- 🚧 AWS + Terraform Lab (coming soon)
+- 🚧 Network Automation Scripts
 
 ---
 
@@ -53,7 +60,7 @@ I am actively expanding my skills in modern infrastructure and automation:
 
 ## 💼 Professional Experience
 
-### 🟢 Computacenter — Network & Datacenter Engineer
+### 🟢 Computacenter — Network & Datacenter Engineer  
 📅 Jan 2024 – Present  
 - Enterprise network operations & troubleshooting  
 - Cisco ACI & datacenter networking  
@@ -62,7 +69,7 @@ I am actively expanding my skills in modern infrastructure and automation:
 
 ---
 
-### 🔵 NTT Ltd (BMW Account) — Network Engineer (NOC)
+### 🔵 NTT Ltd (BMW Account) — Network Engineer (NOC)  
 📅 Oct 2022 – Dec 2023  
 - Monitoring global enterprise networks  
 - Routing, switching, VPN & firewall troubleshooting  
@@ -71,11 +78,11 @@ I am actively expanding my skills in modern infrastructure and automation:
 ---
 
 ## 🎓 Certifications
-- ✅ CCNP Enterprise (ENCOR, ENRSI)
-- ✅ CCNA
-- ✅ Palo Alto NGFW Engineer
-- ✅ FortiGate Administrator
-- ✅ Check Point CCSA
+- ✅ CCNP Enterprise (ENCOR, ENRSI)  
+- ✅ CCNA  
+- ✅ Palo Alto NGFW Engineer  
+- ✅ FortiGate Administrator (FCP)  
+- ✅ Check Point CCSA  
 
 ---
 
