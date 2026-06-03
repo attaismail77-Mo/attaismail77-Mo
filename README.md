@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Ismail
 
-<!--
-**attaismail77-Mo/attaismail77-Mo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Senior Network & Security Engineer based in Germany  
+🌍 Enterprise Networking | Security | Datacenter  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+I am a Network & Security Engineer with over 4 years of experience working in enterprise and service-provider environments.
+
+I specialize in:
+- Routing & Switching
+- Firewalls (Palo Alto, FortiGate, Check Point)
+- Cisco ACI (Datacenter)
+- Network Access Control (Cisco ISE)
+- Troubleshooting complex infrastructures
+
+Currently working at **Computacenter**, previously at **NTT (BMW project)**.
+
+---
+
+## ⚙️ Skills
+
+### 🌐 Networking
+- Cisco Routing & Switching
+- VPN (IPsec, SSL)
+
+### 🔒 Security
+- Palo Alto NGFW
+- FortiGate
+- Check Point
+- Cisco ISE (NAC)
+
+### 🏢 Datacenter
+- Cisco ACI
+
+### 📊 Tools
+- Cisco Catalyst Center (DNA Center)
+- ITSM (Incident / Change / Problem Management)
+
+---
+
+## 💼 Experience
+
+### 🟢 Computacenter — Network Engineer
+- Enterprise network operations
+- Cisco ACI & datacenter
+- Firewall troubleshooting
+- NAC (Cisco ISE)
+
+### 🔵 NTT Ltd (BMW) — Network Engineer (NOC)
+- Monitoring global networks
+- Incident handling
+- VPN & firewall troubleshooting
+
+---
+
+## 🎓 Certifications
+- CCNP Enterprise (ENCOR, ENRSI)
+- CCNA
+- Palo Alto NGFW Engineer
+- FortiGate Administrator
+- Check Point CCSA
+
+---
+
+## 🌍 Languages
+- German 🇩🇪 Fluent  
+- English 🇬🇧 Fluent  
+- Arabic 🇸🇦 Native  
+
+---
+
+## 📫 Contact
+📧 attaismail77@gmail.com  
+📍 Germany  
+
+---
+
+⭐ Open to networking & security projects
