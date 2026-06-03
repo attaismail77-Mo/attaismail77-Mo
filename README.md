@@ -1,25 +1,35 @@
 # 👋 Hi, I'm Mohamed Ismail
 
 🔐 Senior Network & Security Engineer based in Germany  
-🌍 Enterprise Networking | Security | Datacenter  
+🌍 Enterprise Networking | Security | Cloud & Automation  
 
 ---
 
 ## 🧑‍💻 About Me
-I am a Network & Security Engineer with over 4 years of experience working in enterprise and service-provider environments.
+Network & Security Engineer with 4+ years of experience in enterprise and service-provider environments.
 
-I specialize in:
+Strong expertise in:
 - Routing & Switching
-- Firewalls (Palo Alto, FortiGate, Check Point)
+- Firewall technologies (Palo Alto, FortiGate, Check Point)
 - Cisco ACI (Datacenter)
 - Network Access Control (Cisco ISE)
 - Troubleshooting complex infrastructures
 
-Currently working at **Computacenter**, previously at **NTT (BMW project)**.
+Currently working at **Computacenter**, previously at **NTT (BMW global network operations)**.
 
 ---
 
-## ⚙️ Skills
+## 🚀 Current Focus
+I am actively expanding my skills in modern infrastructure and automation:
+
+- ☁️ AWS Cloud (learning & hands-on labs)
+- 🏗️ Infrastructure as Code (Terraform)
+- ⚙️ Network & Security Automation
+- 🐍 Python for automation
+
+---
+
+## ⚙️ Technical Skills
 
 ### 🌐 Networking
 - Cisco Routing & Switching
@@ -34,33 +44,38 @@ Currently working at **Computacenter**, previously at **NTT (BMW project)**.
 ### 🏢 Datacenter
 - Cisco ACI
 
-### 📊 Tools
+### 📊 Tools & Operations
 - Cisco Catalyst Center (DNA Center)
+- Monitoring & Alerting
 - ITSM (Incident / Change / Problem Management)
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### 🟢 Computacenter — Network Engineer
-- Enterprise network operations
-- Cisco ACI & datacenter
-- Firewall troubleshooting
-- NAC (Cisco ISE)
+### 🟢 Computacenter — Network & Datacenter Engineer
+📅 Jan 2024 – Present  
+- Enterprise network operations & troubleshooting  
+- Cisco ACI & datacenter networking  
+- Firewall management & incident handling  
+- NAC (Cisco ISE) policy & troubleshooting  
 
-### 🔵 NTT Ltd (BMW) — Network Engineer (NOC)
-- Monitoring global networks
-- Incident handling
-- VPN & firewall troubleshooting
+---
+
+### 🔵 NTT Ltd (BMW Account) — Network Engineer (NOC)
+📅 Oct 2022 – Dec 2023  
+- Monitoring global enterprise networks  
+- Routing, switching, VPN & firewall troubleshooting  
+- Incident handling in high-availability environments  
 
 ---
 
 ## 🎓 Certifications
-- CCNP Enterprise (ENCOR, ENRSI)
-- CCNA
-- Palo Alto NGFW Engineer
-- FortiGate Administrator
-- Check Point CCSA
+- ✅ CCNP Enterprise (ENCOR, ENRSI)
+- ✅ CCNA
+- ✅ Palo Alto NGFW Engineer
+- ✅ FortiGate Administrator
+- ✅ Check Point CCSA
 
 ---
 
@@ -77,4 +92,9 @@ Currently working at **Computacenter**, previously at **NTT (BMW project)**.
 
 ---
 
-⭐ Open to networking & security projects
+## 🎯 Career Goal
+Transitioning towards **Cloud Networking & Security Engineering**, focusing on AWS, Terraform, and automation-driven infrastructure.
+
+---
+
+⭐ Open to collaboration on networking, cloud, and automation projects
